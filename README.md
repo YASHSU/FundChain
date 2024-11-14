@@ -39,7 +39,7 @@ The smart contract handles all core functionalities, including:
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/fundchain.git
+   git clone https://github.com/paulthadev/FundChain.git
 
 2. **Clone the repository**: 
    ```bash
